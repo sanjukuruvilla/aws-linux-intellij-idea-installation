@@ -1,4 +1,4 @@
-#software_installation_at_AWS_private_instance
+# software_installation_at_AWS_private_instance
 
 A Step-by-Step Guide: Installation of IntelliJ
 IDEA on Linux private instance at AWS
