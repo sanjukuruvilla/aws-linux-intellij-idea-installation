@@ -2,6 +2,7 @@
 .git
 .terraform
 .terraform.lock.hcl
+.gitignore
 
 # Ignore Terraform state files
 terraform.tfstate
